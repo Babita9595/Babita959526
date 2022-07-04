@@ -4,7 +4,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Babita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Babita-green)](https://www.Babita)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-babita-yellow)](https://stackoverflow.com/users/3687251/)
 
 I'm
 Full Stack Solution Architect
