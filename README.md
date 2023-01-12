@@ -2,7 +2,7 @@
 ### Hii
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Babita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Linkedin Badge](https://www.linkedin.com/in/babita-koushik-650764160/)](https://www.linkedin.com/in/babita-koushik-650764160/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Babita-green)](https://www.Babita)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-babita-yellow)](https://stackoverflow.com/users/3687251/)
 
