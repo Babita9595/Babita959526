@@ -4,14 +4,13 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Babita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Babita--01629954/)](https://www.linkedin.com/in/babita-koushik-650764160/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Babita-green)](https://www.Babita)
-[![Website Badge](https://img.shields.io/badge/WebSite-Babita-green)](https://www.linkedin.com/in/babita-koushik-650764160/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-babita-yellow)](https://stackoverflow.com/users/3687251/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-babita-yellow)](https://www.linkedin.com/in/babita-koushik-650764160/)
+
 
 
 I'm
 Web Developer 
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include front-end development (HTML5, CSS3, Javascript, Responsive). Persuing Reactjs and Bootstrap.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Babita9595/count.svg)
